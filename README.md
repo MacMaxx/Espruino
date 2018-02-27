@@ -6,6 +6,5 @@ Repository for documenting Espruino experiments
 [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 # pinout
-
-ESP32: 
-![alt text](https://github.com/MacMaxx/Espruino/blob/master/nodemcu-esp32s_pinout.jpg "ESP32 pinout")
+![ESP12E](https://github.com/MacMaxx/Espruino/blob/master/NodeMCU%20ESP-12E%20Pinout.png "ESP-12E pinout")
+![ESP32](https://github.com/MacMaxx/Espruino/blob/master/nodemcu-esp32s_pinout.jpg "ESP32 pinout")
