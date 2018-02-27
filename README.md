@@ -8,4 +8,4 @@ Repository for documenting Espruino experiments
 # pinout
 
 ESP32: 
-![alt text](https://github.com/MacMaxx/Espruino/nodemcu-esp32s_pinout.jpg "ESP32 pinout")
+![alt text](https://github.com/MacMaxx/Espruino/blob/master/nodemcu-esp32s_pinout.jpg "ESP32 pinout")
