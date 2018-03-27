@@ -4,7 +4,7 @@
 
 Run fan at full speed (no use of PWM wire on fan). Flash LED with fanspeed.
 
-```
+```javascript
 // FAN_SENSE -> ESP32.D12
 // FAN_GND -> ESP32.GND
 
