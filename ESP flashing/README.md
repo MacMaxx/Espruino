@@ -10,8 +10,9 @@
 # How-to
 1. Install esptool.py for flashing Espressif NodeMCU's
 * requires python
-2. Install USB driver for NodeMCU ESP32 USB CP210x chip
+2. Install USB driver for NodeMCU ESP32 USB CP2102 chip
 * not having driver installed crashes iMac
+* https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers
 3. Download Espruino firmware
 * unzip
 * firmware is in board specific folder
